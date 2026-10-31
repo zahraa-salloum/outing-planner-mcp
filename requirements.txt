@@ -1,0 +1,6 @@
+fastmcp>=4.1
+openai-agents>=0.24
+httpx
+python-dotenv
+pytest
+pytest-asyncio
